@@ -1,0 +1,11 @@
+{
+  "name": "axon-sdk-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:duanyytop/axon-sdk-js.git",
+  "author": "Dylan Duan <duanyytop@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.1.0"
+  }
+}
